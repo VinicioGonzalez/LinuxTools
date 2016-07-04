@@ -1,0 +1,25 @@
+1. Para controlar los monitores
+disper
+
+2. Navegador
+icecat
+
+
+3. Project
+
+projectlibre
+
+4. Print-screen
+
+shutter
+
+5. JDK
+
+openjdk.java.net
+pt-get install openjdk-7-jdk
+
+6. Particiones
+
+gparted
+
+------------------- Fin del documento ---------------
